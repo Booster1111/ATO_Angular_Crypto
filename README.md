@@ -1,6 +1,8 @@
 # Kripton
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.4.
+## screenshot
+![kripton-crypto-admin-angular-dashboard-template](https://user-images.githubusercontent.com/89033750/162637729-efc2620b-a9e6-4eb8-aabb-5728b3254fd8.png)
 
 ## Development server
 
